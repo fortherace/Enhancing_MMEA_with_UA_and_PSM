@@ -161,6 +161,3 @@ The repository includes scripts and reference data for several multimodal multi-
 - The Python scripts implement the enhanced experimental workflow for the selected MMEAs.
 - Reference PF and PS files are stored separately to support evaluation against known Pareto fronts and Pareto sets.
 
-## Citation
-
-If this repository is used for academic work, please cite the related papers for the baseline MMEAs, PlatEMO, and the benchmark problems used in the experiments.
