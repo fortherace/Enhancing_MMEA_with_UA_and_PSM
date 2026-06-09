@@ -160,7 +160,6 @@ The repository includes scripts and reference data for several multimodal multi-
 - The MATLAB code under `MMEAs/` is based on modified PlatEMO code and is mainly used for problem definitions and algorithm invocation.
 - The Python scripts implement the enhanced experimental workflow for the selected MMEAs.
 - Reference PF and PS files are stored separately to support evaluation against known Pareto fronts and Pareto sets.
-- Generated cache files such as `__pycache__/` are not required for running the project and can be ignored.
 
 ## Citation
 
